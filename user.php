@@ -4,6 +4,6 @@
 	<title>Success</title>
 </head>
 <body>
-	<h1>Login Successfuly User</h1>
+	<h1>User dashboard</h1>
 </body>
 </html>
